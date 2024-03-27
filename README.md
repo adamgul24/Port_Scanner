@@ -4,8 +4,11 @@
 ✓ This Python Port Scanner is a simple yet powerful tool designed for network analysis. It scans a specified IP address to identify open ports, offering insights into network configurations and security.
 
 ## Features
+
 ✓ **Fast Scanning**: Efficiently scans ports from 1 to 1024.
+
 ✓ **User-Friendly Interface**: Offers an easy-to-use command-line interface.
+
 ✓ **Versatility**: Suitable for scanning any accessible IP address.
 
 ## Requirements
